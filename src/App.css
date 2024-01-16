@@ -37,3 +37,15 @@
     transform: rotate(360deg);
   }
 }
+
+.btn {
+  background-color: red;
+  width: 250px;
+  border: none;
+}
+
+.btn2 {
+  background-color: green;
+  width: 250px;
+  border: none;
+}
